@@ -1,8 +1,10 @@
-# Untitled First-Person Game (UE5 prototype)
+# WIP Capstone Project (UE5 prototype)
+
+<p align="center"><img src="https://img.shields.io/badge/status-Early%20Build-orange?style=for-the-badge" alt="Early Build"></p>
 
 ![Three characters in the snowy courtyard with an interaction prompt](media/courtyard_talk.jpg)
 
-<p align="center"><a href="https://github.com/DenyaSolyara/ue5-narrative-prototype/releases/latest/download/UntitledUE5Game-win64.zip"><img src="https://img.shields.io/badge/Download-Windows%20build%20(1.8%20GB)-2ea44f?style=for-the-badge&logo=windows" alt="Download the Windows build"></a><br><sub>Unzip, open the <code>Windows</code> folder, and run <code>Once_In_Something.exe</code>. The first launch compiles shaders and can sit on black for a minute. <a href="https://github.com/DenyaSolyara/ue5-narrative-prototype/releases/latest">Notes</a></sub></p>
+<p align="center"><a href="https://github.com/DenyaSolyara/ue5-narrative-prototype/releases/latest/download/UntitledUE5Game-win64.zip"><img src="https://img.shields.io/badge/Download-Early%20Build%20for%20Windows%20(1.8%20GB)-2ea44f?style=for-the-badge&logo=windows" alt="Download the Windows build"></a><br><sub>Unzip, open the <code>Windows</code> folder, and run <code>Once_In_Something.exe</code>. The first launch compiles shaders and can sit on black for a minute. <a href="https://github.com/DenyaSolyara/ue5-narrative-prototype/releases/latest">Notes</a></sub></p>
 
 An atmospheric first-person walk through a post-Soviet apartment block, its stairwell, and a snowy courtyard, built in Unreal Engine 5. It's in early development, so this repo is a showcase with a playable build. The source is private, and the raw environment art comes from licensed marketplace packs, so only the packaged game is shared.
 
