@@ -4,7 +4,7 @@
 
 <p align="center"><a href="https://github.com/DenyaSolyara/ue5-narrative-prototype/releases/latest/download/UntitledUE5Game-win64.zip"><img src="https://img.shields.io/badge/Download-Windows%20build%20(1.8%20GB)-2ea44f?style=for-the-badge&logo=windows" alt="Download the Windows build"></a><br><sub>Unzip, open the <code>Windows</code> folder, and run <code>Once_In_Something.exe</code>. The first launch compiles shaders and can sit on black for a minute. <a href="https://github.com/DenyaSolyara/ue5-narrative-prototype/releases/latest">Notes</a></sub></p>
 
-An atmospheric first-person walk through a post-Soviet apartment block, its stairwell, and a snowy courtyard, built in Unreal Engine 5. It's in early development, so this repo is a showcase with a playable build. The source is private, and the environment art comes from licensed marketplace packs that can't be redistributed.
+An atmospheric first-person walk through a post-Soviet apartment block, its stairwell, and a snowy courtyard, built in Unreal Engine 5. It's in early development, so this repo is a showcase with a playable build. The source is private, and the raw environment art comes from licensed marketplace packs, so only the packaged game is shared.
 
 **Engine:** Unreal Engine 5, C++ and Python · **Built with:** Claude Code and Codex
 
