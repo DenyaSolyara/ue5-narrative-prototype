@@ -8,7 +8,7 @@
 
 A young designer finishes university and can't find work. Instead of a job in a nice office downtown, he ends up on the outskirts of the city working at a factory. The game follows his everyday life there: the people he meets, and how he slowly settles into a life he never expected to have.
 
-**Engine:** Unreal Engine 5 · **Built with:** Claude Code and Codex · **Status:** early build. The source is private, and the raw environment art comes from licensed marketplace packs, so only the packaged game is shared.
+**Engine:** Unreal Engine 5 · **Status:** early build. The source is private, and the raw environment art comes from licensed marketplace packs, so only the packaged game is shared.
 
 ## Visual style
 
